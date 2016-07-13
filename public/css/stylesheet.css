@@ -1,0 +1,79 @@
+/*h1{
+  text-align: center;
+}*/
+p {
+  color: ghostwhite;
+  width: 40%;
+  font-size: 22px;
+  /*text-decoration: underline;*/
+  background-color: steelblue;
+  border: 1px solid black;
+  display: inline-block;
+  text-shadow: -1px -1px 0 #000,
+                1px -1px 0 #000,
+              -1px 1px 0 #000,
+                1px 1px 0 #000;
+  height: 30px;
+}
+.redBar {
+  display: inline-block;
+  background-color: crimson;
+  overflow: hidden;
+  width: 40%;
+  height: 30px;
+  top: -2px;
+  margin-top: 1px;
+  margin-left: -2px;
+  margin-bottom: -6px;
+}
+.redBar2{
+  background-color: crimson;
+  overflow: hidden;
+  width: 80%;
+  height: 15px;
+  margin-top: -4px;
+}
+.flag{
+  margin-left: 20px;
+  margin-top: 20px;
+}
+a {
+  width: auto;
+  display: inline-block;
+}
+.button{
+  text-align: center;
+  font-size: 15px;
+  width: auto;
+  radius: 5%;
+  background-color: steelblue;
+  color: ghostwhite;
+  text-shadow: -1px -1px 0 #000,
+              1px -1px 0 #000,
+              -1px 1px 0 #000,
+              1px 1px 0 #000;
+}
+h4 {
+  color: ghostwhite;
+  font-size: 12px;
+  margin-top: -5px;
+  background-color: crimson;
+  width: 80%;
+  text-shadow: -1px -1px 0 #000,
+                1px -1px 0 #000,
+                -1px 1px 0 #000,
+                1px 1px 0 #000;
+  padding: 2px;
+}
+h3 {
+  margin-top: -2px;
+  color: ghostwhite;
+  font-size: 18px;
+  background-color: crimson;
+  width: 80%;
+  text-shadow: -1px -1px 0 #000,
+                1px -1px 0 #000,
+                -1px 1px 0 #000,
+                1px 1px 0 #000;
+  padding: 3px;
+}
